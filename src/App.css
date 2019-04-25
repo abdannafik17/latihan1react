@@ -1,3 +1,11 @@
+.header-miring {
+  font-style: italic
+}
+
+.header-normal {
+  font-style: normal
+}
+
 .App {
   text-align: center;
 }
